@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:frederik.wenkel@gmail.com"}
+  - {title: Linkedin, icon: linkedin, url: "https://linkedin.com/in/frederik-wenkel-669388185"}
   - {title: Github, icon: github, url: "https://github.com/WenkelF"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/frederik-wenkel-669388185"}
 #   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
